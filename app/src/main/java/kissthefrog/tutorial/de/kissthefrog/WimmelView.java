@@ -34,7 +34,7 @@ public class WimmelView extends View {
                 canvas.drawBitmap(bitmap, left, top, paint);
 
             }
-            //Garbage Collector funktionert in Android nicht immer gut, darum Grafiker selber aufräumen
+            //Garbage Collector funktioniert in Android nicht immer gut, darum Grafiker selber aufräumen
             bitmap.recycle();
         }
     }
