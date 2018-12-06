@@ -8,4 +8,5 @@
     <color name="colorRed">#ff0000</color>
     <color name="frog_green">#11ff00</color>
     <color name="color_blue">#001dfd</color>
+    <color name="colorBlack">#000000</color>
 </resources>

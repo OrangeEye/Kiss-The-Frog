@@ -10,13 +10,12 @@
     <FrameLayout
         android:id="@+id/container"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@drawable/pond_310149_1280">
+        android:layout_height="match_parent">
 
         <RelativeLayout
 
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
 
 
             <TextView
